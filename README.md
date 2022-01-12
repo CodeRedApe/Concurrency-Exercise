@@ -1,2 +1,2 @@
 # Concurrency-Exercise
-This Exercise demonstrates an event loop method using Javascript
+This Exercise demonstrates an event loop method using Java
